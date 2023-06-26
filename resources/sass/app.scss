@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@font-face {
+    font-family: kalameh;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/regular.eot');
+    src: url('../fonts/regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+        url('../fonts/regular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+        url('../fonts/regular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+        url('../fonts/regular.ttf') format('truetype');
+}
