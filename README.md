@@ -56,7 +56,7 @@ Menu report. Based on the entered data, a report is generated.
 - Html/css.
 
 ## Installation
-- git clone https://github.com/rsbrodov/laravel-vue-nutrition.git
+- git clone https://github.com/arsalanarghavan/NitroHealthUni.git
 - composer update
 - npm install
 - .env Correct the file
