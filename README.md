@@ -14,30 +14,25 @@ Overall, NitroHealth is an excellent tool for those who are looking to take cont
 <p align="center"><small>ScreenShot 1</small></p>
 The first screenshot shows a section with a list of products. The product can be removed if it is not used in a dish.
 
-![image](https://user-images.githubusercontent.com/55738777/185775904-7d36d4c4-670e-4bd6-a88f-85a7cbabdeeb.png)
+![image](https://github.com/arsalanarghavan/NitroHealthUni/blob/main/ScreenShots/2.png)
 <p class="text-center" style="margin: 0 auto;"><small>ScreenShot 2</small></p>
 Creation form with validation (vuelidate).
 
-![image](https://user-images.githubusercontent.com/55738777/185775928-1e07e6ae-448c-45ad-8411-ddbcd24771e6.png)
+![image](https://github.com/arsalanarghavan/NitroHealthUni/blob/main/ScreenShots/3.png)
 <p class="text-center" style="margin: 0 auto;"><small>ScreenShot 3</small></p>
 Section with a list of dishes.
 
-![image](https://user-images.githubusercontent.com/55738777/185775957-3b670e1a-8bd2-45e8-a378-729990fa53b3.png)
+![image](https://github.com/arsalanarghavan/NitroHealthUni/blob/main/ScreenShots/4.png)
 <p class="text-center" style="margin: 0 auto;"><small>ScreenShot 4</small></p>
 Adding a dish.
 
-![image](https://user-images.githubusercontent.com/55738777/185775975-c584c983-2695-4a62-af0a-d4e1907ba343.png)
+![image](https://github.com/arsalanarghavan/NitroHealthUni/blob/main/ScreenShots/5.png)
 <p class="text-center" style="margin: 0 auto;"><small>ScreenShot 5</small></p>
 Menu list.
 
-![image](https://user-images.githubusercontent.com/55738777/185775992-f1c1df81-5cee-455e-8169-862f767927ac.png)
+![image](https://github.com/arsalanarghavan/NitroHealthUni/blob/main/ScreenShots/6.png)
 <p class="text-center" style="margin: 0 auto;"><small>ScreenShot 6</small></p>
 Working with the menu.
-
-![image](https://user-images.githubusercontent.com/55738777/185776019-17c48776-6d75-4cbc-9076-4a15271dc8bd.png)
-
-<p class="text-center" style="margin: 0 auto;"><small>ScreenShot 7</small></p>
-Menu report. Based on the entered data, a report is generated.
 
 ## Technologies and Tools
 ### Backend
