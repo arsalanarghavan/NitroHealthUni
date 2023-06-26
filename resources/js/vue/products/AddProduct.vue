@@ -242,8 +242,8 @@ export default{
                 })
                 .then(response => {
                     this.flashMessage.success({
-                        title: 'Данные сохранены',
-                        message: 'Продукт добавлен в список',
+                        title: 'داده‌ها ذخیره شدند',
+                        message: 'محصول به لیست اضافه شد',
                         time: 3000,
                     });
                 });
