@@ -10,7 +10,7 @@ This app is a truncated version of a more comprehensive program for calculating 
 Overall, NitroHealth is an excellent tool for those who are looking to take control of their nutritional intake and make healthier choices. With its comprehensive nutritional analysis and user-friendly interface, NitroHealth is the perfect app for anyone looking to lead a healthier lifestyle.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/55738777/185775878-1034a870-6f54-4910-b51e-bb32a874cc43.png)
+![image](https://github.com/arsalanarghavan/NitroHealthUni/blob/main/ScreenShots/1.png)
 <p align="center"><small>ScreenShot 1</small></p>
 The first screenshot shows a section with a list of products. The product can be removed if it is not used in a dish.
 
