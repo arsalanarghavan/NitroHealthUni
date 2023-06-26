@@ -1,12 +1,14 @@
 
 
-## О проекте
-Это небольшое web-приложение разработанное для расчета белков, жиров, углеводов, а также химического и витаминного состава меню
-Пользователь формирует блюдо, либо использует уже созданное вносит его в своей ежедневный рацион, а после получает отчет о химическом и энергетическом составе.
-<br>
-Данный проект представляет из себя урезанную версию программы по расчету меню и других показателей, также разработанных мной.
-<br>
-Ниже представлены скриншоты.
+## О NitroHealth
+**NitroHealth** is a powerful web application designed to help people track their daily nutritional intake. By calculating the proteins, fats, carbohydrates, as well as the chemical and vitamin composition of a menu, NitroHealth provides users with a comprehensive breakdown of their daily diet.
+
+With NitroHealth, users can easily create dishes or select from a pre-existing list of meals to add to their daily diet. Once added, NitroHealth automatically calculates the nutritional content of each meal, providing users with a detailed report on the chemical and energy composition of their menu.
+
+This app is a truncated version of a more comprehensive program for calculating menus and other indicators, developed by the same creator. NitroHealth offers a simplified and user-friendly interface, making it easy for anyone to track their nutritional intake and make informed decisions about their diet.
+
+Overall, NitroHealth is an excellent tool for those who are looking to take control of their nutritional intake and make healthier choices. With its comprehensive nutritional analysis and user-friendly interface, NitroHealth is the perfect app for anyone looking to lead a healthier lifestyle.
+
 ## Скрины
 ![image](https://user-images.githubusercontent.com/55738777/185775878-1034a870-6f54-4910-b51e-bb32a874cc43.png)
 <p align="center"><small>Скрин 1</small></p>
